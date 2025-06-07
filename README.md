@@ -1,5 +1,5 @@
 
-# 🚀 Transformer Miniatures by Dilip025
+# 🚀 Transformer Miniatures
 
 A compact and educational implementation of transformer architectures for learning and experimentation. These models are designed to be minimal, interpretable, and usable as a foundation for deeper exploration into transformer internals.
 
