@@ -3,6 +3,8 @@
 
 A compact and educational implementation of transformer architectures for learning and experimentation. These models are designed to be minimal, interpretable, and usable as a foundation for deeper exploration into transformer internals.
 
+### [Dilip Pokhrel - Hugging Face](https://huggingface.co/dilip025)
+
 ---
 
 ## 📘 Models
